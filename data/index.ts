@@ -127,6 +127,15 @@ export const projects = [
 export const testimonials = [
   {
     quote:
+      "Working with Evans,  was a pleasure. His professionalism, promptness, and commitment to delivering outstanding results were evident throughout the project. Evans's enthusiasm for development truly sets him apart. If you’re looking to elevate your website and brand, he’s the ideal partner.",
+    name: "abdulmanan ahmed",
+    title: "Chief Technology Officer at Jambopay",
+    img: "/ahmed.png",
+    link: "https://www.linkedin.com/in/abdulmanan-ahmed-7b9a7b6a/",
+    socialIcon: "/link.svg",
+  },
+  {
+    quote:
       "Collaborating with Evans at THEJITU was an incredibly valuable experience. As an instructor, Evans was part of my team of  developers, and he consistently demonstrated eagerness to learn and a proactive approach during sessions. He completed all tasks on time and actively sought clarification whenever needed, ensuring his full understanding of each concept. His determination and engagement placed him among the top performers on our team. I would highly recommend Evans to any employer.",
     name: "Jonathan Ndambuki",
     title: "Software Developer || Instructor || Mentor at THEJITU",
@@ -134,42 +143,34 @@ export const testimonials = [
     link: "https://www.linkedin.com/in/jonathan-ndambuki-84630a219/",
     socialIcon: "/link.svg",
   },
-  {
-    quote:
-      "Collaborating with Evans was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Evans's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Evans is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-    img: "/jonathan.png",
-    link: "/jonathan.png",
-    socialIcon: "/link.svg",
-  },
-  {
-    quote:
-      "Collaborating with Evans was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Evans's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Evans is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-    img: "/jonathan.png",
-    link: "/jonathan.png",
-    socialIcon: "/link.svg",
-  },
-  {
-    quote:
-      "Collaborating with Evans was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Evans's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Evans is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-    img: "/jonathan.png",
-    link: "/jonathan.png",
-    socialIcon: "/link.svg",
-  },
-  {
-    quote:
-      "Collaborating with Evans was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Evans's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Evans is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-    img: "/jonathan.png",
-    link: "/jonathan.png",
-    socialIcon: "/link.svg",
-  },
+
+  // {
+  //   quote:
+  //     "Collaborating with Evans was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Evans's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Evans is the ideal partner.",
+  //   name: "Michael Johnson",
+  //   title: "Director of AlphaStream Technologies",
+  //   img: "/jonathan.png",
+  //   link: "/jonathan.png",
+  //   socialIcon: "/link.svg",
+  // },
+  // {
+  //   quote:
+  //     "Collaborating with Evans was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Evans's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Evans is the ideal partner.",
+  //   name: "Michael Johnson",
+  //   title: "Director of AlphaStream Technologies",
+  //   img: "/jonathan.png",
+  //   link: "/jonathan.png",
+  //   socialIcon: "/link.svg",
+  // },
+  // {
+  //   quote:
+  //     "Collaborating with Evans was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Evans's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Evans is the ideal partner.",
+  //   name: "Michael Johnson",
+  //   title: "Director of AlphaStream Technologies",
+  //   img: "/jonathan.png",
+  //   link: "/jonathan.png",
+  //   socialIcon: "/link.svg",
+  // },
 ];
 
 export const companies = [

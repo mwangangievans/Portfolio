@@ -33,8 +33,6 @@ const Clients = () => {
                   src={company.img}
                   alt={company.name}
                   className="md:w-10 w-5"
-                  width={100}
-                  height={100}
                 />
                 <img
                   src={company.nameImg}
