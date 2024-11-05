@@ -122,6 +122,20 @@ export const projects = [
     ],
     link: "https://auth-ui-pink.vercel.app/login",
   },
+  {
+    id: 3,
+    title: "Bulb Network",
+    des: "A comprehensive networking platform that enables organizations to book tickets, attend events, network with industry peers, market their products, and exchange ideas.",
+    img: "bulb.png",
+    iconLists: [
+      "angular.png",
+      "/tail.svg",
+      "/ts.svg",
+      "/three.svg",
+      "angularMaterial.png",
+    ],
+    link: "https://www.bulb.co.ke/#/home",
+  },
 ];
 
 export const testimonials = [
